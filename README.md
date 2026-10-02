@@ -14,10 +14,10 @@ I build fast, accessible web applications and care about maintainable code: reus
 |---|---|---|---|
 | **TravelNest** | Airbnb-style booking app: search stays, photo galleries, bookings with server-side pricing and double-booking protection, host dashboard | React · Tailwind · Express · MongoDB · Netlify Functions | [Live](https://mern-booking-webapp.netlify.app) · [Code](https://github.com/An0nRaptor/Booking_webapp) |
 | **Memories** | Social app for travel moments: posts, likes with optimistic UI, comments, tags, search, profiles, dark mode | React · Redux Toolkit (RTK Query) · Material UI · Express · MongoDB | [Live](https://create-memories-webapp.netlify.app) · [Code](https://github.com/An0nRaptor/Mern_memories_webapp) |
-| **Blogging Platform** | Publishing dashboard with drafts and analytics, likes, nested comment replies, real-time notifications | React · Tailwind · Express · MongoDB · Firebase Auth | [Live](https://blogging-mern-webapp.netlify.app) · [Code](https://github.com/An0nRaptor/Blogging_mern_webapp) |
+| **Blogspace** | Blogging platform: rich-text editor, drafts, writer dashboard, nested comments, notifications; hardened API with sanitised content | React · Tailwind · Express · MongoDB · AWS S3 · Netlify Functions | [Live](https://blogging-mern-webapp.netlify.app) · [Code](https://github.com/An0nRaptor/Blogging_mern_webapp) |
 | **Portfolio** | Pre-rendered React site scoring 99 on Lighthouse mobile performance | React · Vite · Tailwind CSS | [Live](https://my-portfoliosite07.netlify.app) · [Code](https://github.com/An0nRaptor/portfolio) |
 
-TravelNest and Memories have a **“Try the demo account”** button, so you can explore them without signing up.
+TravelNest, Memories and Blogspace have a **“Try the demo account”** button, so you can explore them without signing up.
 
 ---
 
