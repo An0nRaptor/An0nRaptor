@@ -1,15 +1,36 @@
-# 💫 About Me:
-💫 Frontend Developer | Reactjs, JavaScript (ES5+), HTML5, CSS3 <br><br>I'm a frontend developer specializing in building responsive, high-performance applications with React, JavaScript, HTML, and CSS. Skilled in creating seamless user experiences and clean, efficient code, I bring a passion for UI design and web innovation.
+# Hi, I’m Rahul Yadav 👋
 
+**Senior Software Engineer at Virtusa** · Frontend engineer specialising in **React, TypeScript and micro-frontend architecture** · Pune, India
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=An0nRaptor&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=An0nRaptor&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=An0nRaptor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build fast, accessible web applications and care about maintainable code: reusable component libraries, performance and well-tested releases. Nearly 5 years across Wipro, GlobalLogic and Virtusa.
+
+🌐 **Portfolio:** [my-portfoliosite07.netlify.app](https://my-portfoliosite07.netlify.app) &nbsp;·&nbsp; 💼 **LinkedIn:** [rahul-yadav](https://www.linkedin.com/in/rahul-yadav-0506501a0/) &nbsp;·&nbsp; ✉️ **Email:** rahulyadavaudi06@gmail.com
 
 ---
-[![](https://visitcount.itsvg.in/api?id=An0nRaptor&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Featured projects
+
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **TravelNest** | Airbnb-style booking app: search stays, photo galleries, bookings with server-side pricing and double-booking protection, host dashboard | React · Tailwind · Express · MongoDB · Netlify Functions | [Live](https://mern-booking-webapp.netlify.app) · [Code](https://github.com/An0nRaptor/Booking_webapp) |
+| **Memories** | Social app for travel moments: posts, likes with optimistic UI, comments, tags, search, profiles, dark mode | React · Redux Toolkit (RTK Query) · Material UI · Express · MongoDB | [Live](https://create-memories-webapp.netlify.app) · [Code](https://github.com/An0nRaptor/Mern_memories_webapp) |
+| **Blogging Platform** | Publishing dashboard with drafts and analytics, likes, nested comment replies, real-time notifications | React · Tailwind · Express · MongoDB · Firebase Auth | [Live](https://blogging-mern-webapp.netlify.app) · [Code](https://github.com/An0nRaptor/Blogging_mern_webapp) |
+| **Portfolio** | Pre-rendered React site scoring 99 on Lighthouse mobile performance | React · Vite · Tailwind CSS | [Live](https://my-portfoliosite07.netlify.app) · [Code](https://github.com/An0nRaptor/portfolio) |
+
+TravelNest and Memories have a **“Try the demo account”** button, so you can explore them without signing up.
+
+---
+
+### 🛠️ Tech stack
+
+**Frontend:** React · TypeScript · JavaScript (ES6+) · Redux / RTK Query · React Router · single-spa (micro-frontends) · Tailwind CSS · Material UI
+**Backend:** Node.js · Express · MongoDB · REST APIs · JWT
+**Testing & quality:** Jest · React Testing Library · ESLint · SonarQube
+**Tooling:** Git · Vite · Webpack · Jenkins · Netlify · Vercel · Adobe Analytics
+
+---
+
+### 📚 Also
+
+- Contributed to **MDN Web Docs**: improved the [“Comparing dates and strings”](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Equality#comparing_dates_and_strings) section of the JavaScript reference
+- Certifications: Namaste React (2024) · HTML, CSS & JavaScript for Web Developers, Coursera (2024)
