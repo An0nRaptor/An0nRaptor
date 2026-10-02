@@ -23,10 +23,10 @@ TravelNest and Memories have a **“Try the demo account”** button, so you can
 
 ### 🛠️ Tech stack
 
-**Frontend:** React · TypeScript · JavaScript (ES6+) · Redux / RTK Query · React Router · single-spa (micro-frontends) · Tailwind CSS · Material UI
-**Backend:** Node.js · Express · MongoDB · REST APIs · JWT
-**Testing & quality:** Jest · React Testing Library · ESLint · SonarQube
-**Tooling:** Git · Vite · Webpack · Jenkins · Netlify · Vercel · Adobe Analytics
+- **Frontend:** React · TypeScript · JavaScript (ES6+) · Redux / RTK Query · React Router · single-spa (micro-frontends) · Tailwind CSS · Material UI
+- **Backend:** Node.js · Express · MongoDB · REST APIs · JWT
+- **Testing & quality:** Jest · React Testing Library · ESLint · SonarQube
+- **Tooling:** Git · Vite · Webpack · Jenkins · Netlify · Vercel · Adobe Analytics
 
 ---
 
